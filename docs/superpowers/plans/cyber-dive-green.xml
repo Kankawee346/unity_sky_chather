@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="6" result="Passed" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.0348715">
+  <test-suite type="TestSuite" id="1000" name="CyberDive" fullname="CyberDive" runstate="Runnable" testcasecount="6" result="Passed" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.034872" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="1008" name="CyberDive.Tests.dll" fullname="C:/Users/kanka/Documents/06_code/vscode/Project_cyber/CyberDive/Library/ScriptAssemblies/CyberDive.Tests.dll" runstate="Runnable" testcasecount="6" result="Passed" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.028876" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="13884" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestSuite" id="1009" name="CyberDive" fullname="CyberDive" runstate="Runnable" testcasecount="6" result="Passed" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.028418" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1010" name="Tests" fullname="CyberDive.Tests" runstate="Runnable" testcasecount="6" result="Passed" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.028230" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1001" name="RulesTests" fullname="CyberDive.Tests.RulesTests" classname="CyberDive.Tests.RulesTests" runstate="Runnable" testcasecount="6" result="Passed" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.027038" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1003" name="DamageInvulnerabilityAndTerminalState" fullname="CyberDive.Tests.RulesTests.DamageInvulnerabilityAndTerminalState" methodname="DamageInvulnerabilityAndTerminalState" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="1817792294" result="Passed" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.013378" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1007" name="LostTrackingAndPauseRequireNewNeutral" fullname="CyberDive.Tests.RulesTests.LostTrackingAndPauseRequireNewNeutral" methodname="LostTrackingAndPauseRequireNewNeutral" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="525274539" result="Passed" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.000376" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1002" name="ParryHasWindowAndCooldown" fullname="CyberDive.Tests.RulesTests.ParryHasWindowAndCooldown" methodname="ParryHasWindowAndCooldown" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="1022921553" result="Passed" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.000233" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1004" name="PauseFreezesCooldownAndRejectsCombat" fullname="CyberDive.Tests.RulesTests.PauseFreezesCooldownAndRejectsCombat" methodname="PauseFreezesCooldownAndRejectsCombat" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="50735122" result="Passed" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.000266" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1006" name="PoseRequiresNeutralAndNeverRepeatsHeldGesture" fullname="CyberDive.Tests.RulesTests.PoseRequiresNeutralAndNeverRepeatsHeldGesture" methodname="PoseRequiresNeutralAndNeverRepeatsHeldGesture" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="858723209" result="Passed" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.000232" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1005" name="ReflectionScoresAndMultiplierCaps" fullname="CyberDive.Tests.RulesTests.ReflectionScoresAndMultiplierCaps" methodname="ReflectionScoresAndMultiplierCaps" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="2015756230" result="Passed" start-time="2026-11-15 07:03:30Z" end-time="2026-11-15 07:03:30Z" duration="0.000355" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: C:/Users/kanka/AppData/LocalLow/DefaultCompany/CyberDive\TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

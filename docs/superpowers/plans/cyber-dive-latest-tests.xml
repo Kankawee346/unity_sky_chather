@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="11" result="Failed(Child)" total="11" passed="9" failed="2" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-15 09:40:14Z" end-time="2026-11-15 09:40:16Z" duration="1.7788417">
+  <test-suite type="TestSuite" id="1019" name="CYBER DIVE" fullname="CYBER DIVE" runstate="Runnable" testcasecount="11" result="Failed" site="Child" start-time="2026-11-15 09:40:14Z" end-time="2026-11-15 09:40:16Z" duration="1.778842" total="11" passed="9" failed="2" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="Assembly" id="1013" name="CyberDive.PlayTests.dll" fullname="C:/Users/kanka/Documents/06_code/vscode/Project_cyber/CyberDive/Library/ScriptAssemblies/CyberDive.PlayTests.dll" runstate="Runnable" testcasecount="11" result="Failed" site="Child" start-time="2026-11-15 09:40:14Z" end-time="2026-11-15 09:40:16Z" duration="1.762897" total="11" passed="9" failed="2" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="21612" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="1014" name="CyberDive" fullname="CyberDive" runstate="Runnable" testcasecount="11" result="Failed" site="Child" start-time="2026-11-15 09:40:14Z" end-time="2026-11-15 09:40:16Z" duration="1.754297" total="11" passed="9" failed="2" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestSuite" id="1015" name="Tests" fullname="CyberDive.Tests" runstate="Runnable" testcasecount="11" result="Failed" site="Child" start-time="2026-11-15 09:40:14Z" end-time="2026-11-15 09:40:16Z" duration="1.738176" total="11" passed="9" failed="2" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-suite type="TestFixture" id="1001" name="CombatTests" fullname="CyberDive.Tests.CombatTests" classname="CyberDive.Tests.CombatTests" runstate="Runnable" testcasecount="11" result="Failed" site="Child" start-time="2026-11-15 09:40:14Z" end-time="2026-11-15 09:40:16Z" duration="1.718791" total="11" passed="9" failed="2" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <failure>
+              <message><![CDATA[One or more child tests had errors]]></message>
+            </failure>
+            <test-case id="1012" name="CombatAdvancesAndRestartClearsRun" fullname="CyberDive.Tests.CombatTests.CombatAdvancesAndRestartClearsRun" methodname="CombatAdvancesAndRestartClearsRun" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="2579379" result="Passed" start-time="2026-11-15 09:40:14Z" end-time="2026-11-15 09:40:15Z" duration="0.978133" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1008" name="DeadlineTakesPriorityOverLethalShot" fullname="CyberDive.Tests.CombatTests.DeadlineTakesPriorityOverLethalShot" methodname="DeadlineTakesPriorityOverLethalShot" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1630368358" result="Passed" start-time="2026-11-15 09:40:15Z" end-time="2026-11-15 09:40:15Z" duration="0.064670" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1005" name="DifficultyLocksDuringRunAndOptionsSurviveReload" fullname="CyberDive.Tests.CombatTests.DifficultyLocksDuringRunAndOptionsSurviveReload" methodname="DifficultyLocksDuringRunAndOptionsSurviveReload" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="196310241" result="Passed" start-time="2026-11-15 09:40:15Z" end-time="2026-11-15 09:40:15Z" duration="0.078211" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1004" name="EnterDoesNotResubmitSelectedAudioOption" fullname="CyberDive.Tests.CombatTests.EnterDoesNotResubmitSelectedAudioOption" methodname="EnterDoesNotResubmitSelectedAudioOption" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1626718465" result="Passed" start-time="2026-11-15 09:40:15Z" end-time="2026-11-15 09:40:15Z" duration="0.081724" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1011" name="ExpiredPendingPoseCannotFireBeforeReceiverUpdate" fullname="CyberDive.Tests.CombatTests.ExpiredPendingPoseCannotFireBeforeReceiverUpdate" methodname="ExpiredPendingPoseCannotFireBeforeReceiverUpdate" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1679210830" result="Passed" start-time="2026-11-15 09:40:15Z" end-time="2026-11-15 09:40:16Z" duration="0.041605" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1006" name="FeedbackIsBoundedExpiresAndClearsWithoutChangingRun" fullname="CyberDive.Tests.CombatTests.FeedbackIsBoundedExpiresAndClearsWithoutChangingRun" methodname="FeedbackIsBoundedExpiresAndClearsWithoutChangingRun" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="2075424946" result="Passed" start-time="2026-11-15 09:40:16Z" end-time="2026-11-15 09:40:16Z" duration="0.054633" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1002" name="HudShowsHullAndParryWhileTelemetryStartsHidden" fullname="CyberDive.Tests.CombatTests.HudShowsHullAndParryWhileTelemetryStartsHidden" methodname="HudShowsHullAndParryWhileTelemetryStartsHidden" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="565478897" result="Failed" start-time="2026-11-15 09:40:16Z" end-time="2026-11-15 09:40:16Z" duration="0.063023" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <failure>
+                <message><![CDATA[  Flight HUD must have a clear hierarchy
+  Expected: not null
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[at CyberDive.Tests.CombatTests+<HudShowsHullAndParryWhileTelemetryStartsHidden>d__0.MoveNext () [0x000aa] in C:\Users\kanka\Documents\06_code\vscode\Project_cyber\CyberDive\Assets\CyberDive\Tests\PlayMode\CombatTests.cs:19
+at UnityEngine.TestTools.TestEnumerator+<Execute>d__7.MoveNext () [0x0003a] in .\Library\PackageCache\com.unity.test-framework@1405238725ab\UnityEngine.TestRunner\NUnitExtensions\Attributes\TestEnumerator.cs:44
+]]></stack-trace>
+              </failure>
+            </test-case>
+            <test-case id="1007" name="ImmediateRestartPreservesFinishedBestScore" fullname="CyberDive.Tests.CombatTests.ImmediateRestartPreservesFinishedBestScore" methodname="ImmediateRestartPreservesFinishedBestScore" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="829709463" result="Passed" start-time="2026-11-15 09:40:16Z" end-time="2026-11-15 09:40:16Z" duration="0.050981" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1009" name="KeyboardOnlyIgnoresExternalSamplesAndDisableClearsThem" fullname="CyberDive.Tests.CombatTests.KeyboardOnlyIgnoresExternalSamplesAndDisableClearsThem" methodname="KeyboardOnlyIgnoresExternalSamplesAndDisableClearsThem" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1788664759" result="Passed" start-time="2026-11-15 09:40:16Z" end-time="2026-11-15 09:40:16Z" duration="0.048085" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1003" name="ParryEnergyCueRespectsLowFxAndClearsOnPause" fullname="CyberDive.Tests.CombatTests.ParryEnergyCueRespectsLowFxAndClearsOnPause" methodname="ParryEnergyCueRespectsLowFxAndClearsOnPause" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1709162224" result="Failed" start-time="2026-11-15 09:40:16Z" end-time="2026-11-15 09:40:16Z" duration="0.140516" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <failure>
+                <message><![CDATA[  Full FX must show a local energy burst when the shield opens
+  Expected: greater than 0
+  But was:  0
+]]></message>
+                <stack-trace><![CDATA[at CyberDive.Tests.CombatTests+<ParryEnergyCueRespectsLowFxAndClearsOnPause>d__1.MoveNext () [0x0029a] in C:\Users\kanka\Documents\06_code\vscode\Project_cyber\CyberDive\Assets\CyberDive\Tests\PlayMode\CombatTests.cs:44
+at UnityEngine.TestTools.TestEnumerator+<Execute>d__7.MoveNext () [0x0003a] in .\Library\PackageCache\com.unity.test-framework@1405238725ab\UnityEngine.TestRunner\NUnitExtensions\Attributes\TestEnumerator.cs:44
+]]></stack-trace>
+              </failure>
+            </test-case>
+            <test-case id="1010" name="ShieldReflectsMarkedBulletsButNotObstacles" fullname="CyberDive.Tests.CombatTests.ShieldReflectsMarkedBulletsButNotObstacles" methodname="ShieldReflectsMarkedBulletsButNotObstacles" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1354656445" result="Passed" start-time="2026-11-15 09:40:16Z" end-time="2026-11-15 09:40:16Z" duration="0.087536" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: C:/Users/kanka/AppData/LocalLow/CyberDive/CYBER DIVE\TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

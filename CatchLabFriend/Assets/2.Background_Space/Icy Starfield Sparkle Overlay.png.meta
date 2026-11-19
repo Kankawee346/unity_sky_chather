@@ -1,0 +1,1162 @@
+fileFormatVersion: 2
+guid: a3486a50e196ffc49960f71eb83a1cb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8198606925789643029
+    second: Icy Starfield Sparkle Overlay_0
+  - first:
+      213: -8350108541496317892
+    second: Icy Starfield Sparkle Overlay_1
+  - first:
+      213: 5447744050703284130
+    second: Icy Starfield Sparkle Overlay_2
+  - first:
+      213: 3658935430939312722
+    second: Icy Starfield Sparkle Overlay_3
+  - first:
+      213: 9112713997918666018
+    second: Icy Starfield Sparkle Overlay_4
+  - first:
+      213: 7619256084544400634
+    second: Icy Starfield Sparkle Overlay_5
+  - first:
+      213: 353331466648708148
+    second: Icy Starfield Sparkle Overlay_6
+  - first:
+      213: -1619612617851263754
+    second: Icy Starfield Sparkle Overlay_7
+  - first:
+      213: -8716330005614998890
+    second: Icy Starfield Sparkle Overlay_8
+  - first:
+      213: 4176754515532163783
+    second: Icy Starfield Sparkle Overlay_9
+  - first:
+      213: -3755918449103011524
+    second: Icy Starfield Sparkle Overlay_10
+  - first:
+      213: 4941730757987274792
+    second: Icy Starfield Sparkle Overlay_11
+  - first:
+      213: -3209110431169818950
+    second: Icy Starfield Sparkle Overlay_12
+  - first:
+      213: -8417258311910326763
+    second: Icy Starfield Sparkle Overlay_13
+  - first:
+      213: -1587391399204052173
+    second: Icy Starfield Sparkle Overlay_14
+  - first:
+      213: 2831332029144267808
+    second: Icy Starfield Sparkle Overlay_15
+  - first:
+      213: -6536717495349563516
+    second: Icy Starfield Sparkle Overlay_16
+  - first:
+      213: -6818124223882572930
+    second: Icy Starfield Sparkle Overlay_17
+  - first:
+      213: -8418244563511326256
+    second: Icy Starfield Sparkle Overlay_18
+  - first:
+      213: 3533276352979218960
+    second: Icy Starfield Sparkle Overlay_19
+  - first:
+      213: -1626254547625473160
+    second: Icy Starfield Sparkle Overlay_20
+  - first:
+      213: 2323167138182141785
+    second: Icy Starfield Sparkle Overlay_21
+  - first:
+      213: 8740632286941739501
+    second: Icy Starfield Sparkle Overlay_22
+  - first:
+      213: 7678164505555076372
+    second: Icy Starfield Sparkle Overlay_23
+  - first:
+      213: 1046458376777074015
+    second: Icy Starfield Sparkle Overlay_24
+  - first:
+      213: 6811105101673681864
+    second: Icy Starfield Sparkle Overlay_25
+  - first:
+      213: 5997754796248928870
+    second: Icy Starfield Sparkle Overlay_26
+  - first:
+      213: 7289950381996934662
+    second: Icy Starfield Sparkle Overlay_27
+  - first:
+      213: -8227342105880209271
+    second: Icy Starfield Sparkle Overlay_28
+  - first:
+      213: -8903959844849618795
+    second: Icy Starfield Sparkle Overlay_29
+  - first:
+      213: -7927369763532531240
+    second: Icy Starfield Sparkle Overlay_30
+  - first:
+      213: 2049960898302474110
+    second: Icy Starfield Sparkle Overlay_31
+  - first:
+      213: -5512620185412043396
+    second: Icy Starfield Sparkle Overlay_32
+  - first:
+      213: 7848943513678151412
+    second: Icy Starfield Sparkle Overlay_33
+  - first:
+      213: -7070965791253889367
+    second: Icy Starfield Sparkle Overlay_34
+  - first:
+      213: 3575116576222400170
+    second: Icy Starfield Sparkle Overlay_35
+  - first:
+      213: 5386672717911805091
+    second: Icy Starfield Sparkle Overlay_36
+  - first:
+      213: 5817057291081178950
+    second: Icy Starfield Sparkle Overlay_37
+  - first:
+      213: -5173640071879153029
+    second: Icy Starfield Sparkle Overlay_38
+  - first:
+      213: 8007859476929479852
+    second: Icy Starfield Sparkle Overlay_39
+  - first:
+      213: -5366191187373703572
+    second: Icy Starfield Sparkle Overlay_40
+  - first:
+      213: 5038138287220545245
+    second: Icy Starfield Sparkle Overlay_41
+  - first:
+      213: 3939800644876637412
+    second: Icy Starfield Sparkle Overlay_42
+  - first:
+      213: -8111527729661858363
+    second: Icy Starfield Sparkle Overlay_43
+  - first:
+      213: 6639265751657730587
+    second: Icy Starfield Sparkle Overlay_44
+  - first:
+      213: -5909472600171973932
+    second: Icy Starfield Sparkle Overlay_45
+  - first:
+      213: 3330606084022293166
+    second: Icy Starfield Sparkle Overlay_46
+  - first:
+      213: -6200660522936188689
+    second: Icy Starfield Sparkle Overlay_47
+  - first:
+      213: 4093435286499155753
+    second: Icy Starfield Sparkle Overlay_48
+  - first:
+      213: -1552260264185442031
+    second: Icy Starfield Sparkle Overlay_49
+  - first:
+      213: -8701601100664863321
+    second: Icy Starfield Sparkle Overlay_50
+  - first:
+      213: -3460327937818448365
+    second: Icy Starfield Sparkle Overlay_51
+  - first:
+      213: 7937780015634083544
+    second: Icy Starfield Sparkle Overlay_52
+  - first:
+      213: -6624994244253514302
+    second: Icy Starfield Sparkle Overlay_53
+  - first:
+      213: 4369305694201480931
+    second: Icy Starfield Sparkle Overlay_54
+  - first:
+      213: -1321836798947496467
+    second: Icy Starfield Sparkle Overlay_55
+  - first:
+      213: -4032416665078651268
+    second: Icy Starfield Sparkle Overlay_56
+  - first:
+      213: 6488710747696912965
+    second: Icy Starfield Sparkle Overlay_57
+  - first:
+      213: 530823529434083816
+    second: Icy Starfield Sparkle Overlay_58
+  - first:
+      213: 7497520140528367238
+    second: Icy Starfield Sparkle Overlay_59
+  - first:
+      213: -4616725679651177663
+    second: Icy Starfield Sparkle Overlay_60
+  - first:
+      213: -588327972809965904
+    second: Icy Starfield Sparkle Overlay_61
+  - first:
+      213: -1260168281911623126
+    second: Icy Starfield Sparkle Overlay_62
+  - first:
+      213: 4550542270686806560
+    second: Icy Starfield Sparkle Overlay_63
+  - first:
+      213: 2089046352880505475
+    second: Icy Starfield Sparkle Overlay_64
+  - first:
+      213: -3894596666059672498
+    second: Icy Starfield Sparkle Overlay_65
+  - first:
+      213: -4400247591108105475
+    second: Icy Starfield Sparkle Overlay_66
+  - first:
+      213: -4304042246545177166
+    second: Icy Starfield Sparkle Overlay_67
+  - first:
+      213: -2284411000557707960
+    second: Icy Starfield Sparkle Overlay_68
+  - first:
+      213: -6136011095898195543
+    second: Icy Starfield Sparkle Overlay_69
+  - first:
+      213: 837795223630354822
+    second: Icy Starfield Sparkle Overlay_70
+  - first:
+      213: -5511924618745735391
+    second: Icy Starfield Sparkle Overlay_71
+  - first:
+      213: -2861695167260926065
+    second: Icy Starfield Sparkle Overlay_72
+  - first:
+      213: -9068445572994300453
+    second: Icy Starfield Sparkle Overlay_73
+  - first:
+      213: -8344784935266873140
+    second: Icy Starfield Sparkle Overlay_74
+  - first:
+      213: -444644808797779816
+    second: Icy Starfield Sparkle Overlay_75
+  - first:
+      213: 5841539207973164357
+    second: Icy Starfield Sparkle Overlay_76
+  - first:
+      213: -8826541491158329206
+    second: Icy Starfield Sparkle Overlay_77
+  - first:
+      213: -7041859409451227368
+    second: Icy Starfield Sparkle Overlay_78
+  - first:
+      213: -8955204627331580781
+    second: Icy Starfield Sparkle Overlay_79
+  - first:
+      213: 7904814848478274491
+    second: Icy Starfield Sparkle Overlay_80
+  - first:
+      213: 3377443822075890196
+    second: Icy Starfield Sparkle Overlay_81
+  - first:
+      213: -1337159330582335667
+    second: Icy Starfield Sparkle Overlay_82
+  - first:
+      213: -853974763076387339
+    second: Icy Starfield Sparkle Overlay_83
+  - first:
+      213: 4765219316703648290
+    second: Icy Starfield Sparkle Overlay_84
+  - first:
+      213: 1346626222550265403
+    second: Icy Starfield Sparkle Overlay_85
+  - first:
+      213: 6517279186961750385
+    second: Icy Starfield Sparkle Overlay_86
+  - first:
+      213: 2802871404317904920
+    second: Icy Starfield Sparkle Overlay_87
+  - first:
+      213: -651633437398015694
+    second: Icy Starfield Sparkle Overlay_88
+  - first:
+      213: -7234223085742316331
+    second: Icy Starfield Sparkle Overlay_89
+  - first:
+      213: 8327050482287593170
+    second: Icy Starfield Sparkle Overlay_90
+  - first:
+      213: -459243969712020451
+    second: Icy Starfield Sparkle Overlay_91
+  - first:
+      213: 3998054187434126892
+    second: Icy Starfield Sparkle Overlay_92
+  - first:
+      213: -5560347196547087357
+    second: Icy Starfield Sparkle Overlay_93
+  - first:
+      213: -532252880992602002
+    second: Icy Starfield Sparkle Overlay_94
+  - first:
+      213: 3924621370613364395
+    second: Icy Starfield Sparkle Overlay_95
+  - first:
+      213: -8542088182065906583
+    second: Icy Starfield Sparkle Overlay_96
+  - first:
+      213: 6524405151985760800
+    second: Icy Starfield Sparkle Overlay_97
+  - first:
+      213: 1015168451137098253
+    second: Icy Starfield Sparkle Overlay_98
+  - first:
+      213: 9015124856145392747
+    second: Icy Starfield Sparkle Overlay_99
+  - first:
+      213: -3415202967431607367
+    second: Icy Starfield Sparkle Overlay_100
+  - first:
+      213: 6569774464776801819
+    second: Icy Starfield Sparkle Overlay_101
+  - first:
+      213: -6023255436145138315
+    second: Icy Starfield Sparkle Overlay_102
+  - first:
+      213: -2232702750299350933
+    second: Icy Starfield Sparkle Overlay_103
+  - first:
+      213: 7201198698151108359
+    second: Icy Starfield Sparkle Overlay_104
+  - first:
+      213: -844277283879973597
+    second: Icy Starfield Sparkle Overlay_105
+  - first:
+      213: -4672570870896052348
+    second: Icy Starfield Sparkle Overlay_106
+  - first:
+      213: 9156170276330536057
+    second: Icy Starfield Sparkle Overlay_107
+  - first:
+      213: 9069502483703324274
+    second: Icy Starfield Sparkle Overlay_108
+  - first:
+      213: 728432274115663989
+    second: Icy Starfield Sparkle Overlay_109
+  - first:
+      213: 8760094654399827971
+    second: Icy Starfield Sparkle Overlay_110
+  - first:
+      213: -4778535606416770581
+    second: Icy Starfield Sparkle Overlay_111
+  - first:
+      213: 5713851508729358518
+    second: Icy Starfield Sparkle Overlay_112
+  - first:
+      213: -7285158713402147988
+    second: Icy Starfield Sparkle Overlay_113
+  - first:
+      213: -3859720067295394603
+    second: Icy Starfield Sparkle Overlay_114
+  - first:
+      213: -1339963169064259755
+    second: Icy Starfield Sparkle Overlay_115
+  - first:
+      213: 4694554023835156997
+    second: Icy Starfield Sparkle Overlay_116
+  - first:
+      213: 3782325806108228037
+    second: Icy Starfield Sparkle Overlay_117
+  - first:
+      213: -8255124596105369387
+    second: Icy Starfield Sparkle Overlay_118
+  - first:
+      213: 3939614010811776510
+    second: Icy Starfield Sparkle Overlay_119
+  - first:
+      213: 6558149176456562989
+    second: Icy Starfield Sparkle Overlay_120
+  - first:
+      213: 1638832167931764868
+    second: Icy Starfield Sparkle Overlay_121
+  - first:
+      213: -3756351116835012848
+    second: Icy Starfield Sparkle Overlay_122
+  - first:
+      213: -9046462725331671339
+    second: Icy Starfield Sparkle Overlay_123
+  - first:
+      213: -1895850616286588498
+    second: Icy Starfield Sparkle Overlay_124
+  - first:
+      213: -2610687271824010626
+    second: Icy Starfield Sparkle Overlay_125
+  - first:
+      213: -7979850649778272249
+    second: Icy Starfield Sparkle Overlay_126
+  - first:
+      213: -8452995064362444401
+    second: Icy Starfield Sparkle Overlay_127
+  - first:
+      213: -3700905961090339982
+    second: Icy Starfield Sparkle Overlay_128
+  - first:
+      213: 7965272813179124989
+    second: Icy Starfield Sparkle Overlay_129
+  - first:
+      213: -566343972759647534
+    second: Icy Starfield Sparkle Overlay_130
+  - first:
+      213: 816252396810683134
+    second: Icy Starfield Sparkle Overlay_131
+  - first:
+      213: 4594779851077422923
+    second: Icy Starfield Sparkle Overlay_132
+  - first:
+      213: -5074322450515114589
+    second: Icy Starfield Sparkle Overlay_133
+  - first:
+      213: 4781175347506933421
+    second: Icy Starfield Sparkle Overlay_134
+  - first:
+      213: 8179407905583068858
+    second: Icy Starfield Sparkle Overlay_135
+  - first:
+      213: 6826345713071478123
+    second: Icy Starfield Sparkle Overlay_136
+  - first:
+      213: -6171676835810749983
+    second: Icy Starfield Sparkle Overlay_137
+  - first:
+      213: 5570156233801196320
+    second: Icy Starfield Sparkle Overlay_138
+  - first:
+      213: 5663506869396320723
+    second: Icy Starfield Sparkle Overlay_139
+  - first:
+      213: -8638691704155400466
+    second: Icy Starfield Sparkle Overlay_140
+  - first:
+      213: 5742339983958875693
+    second: Icy Starfield Sparkle Overlay_141
+  - first:
+      213: 2690192163201168607
+    second: Icy Starfield Sparkle Overlay_142
+  - first:
+      213: 6185645828853900062
+    second: Icy Starfield Sparkle Overlay_143
+  - first:
+      213: -3932117655852698458
+    second: Icy Starfield Sparkle Overlay_144
+  - first:
+      213: -8857557786172939322
+    second: Icy Starfield Sparkle Overlay_145
+  - first:
+      213: 5306911644260445057
+    second: Icy Starfield Sparkle Overlay_146
+  - first:
+      213: 2449741253408820985
+    second: Icy Starfield Sparkle Overlay_147
+  - first:
+      213: 404042919305080884
+    second: Icy Starfield Sparkle Overlay_148
+  - first:
+      213: 8788170865430773591
+    second: Icy Starfield Sparkle Overlay_149
+  - first:
+      213: -3602762467941284744
+    second: Icy Starfield Sparkle Overlay_150
+  - first:
+      213: -6555117537370289437
+    second: Icy Starfield Sparkle Overlay_151
+  - first:
+      213: 1597368248065913882
+    second: Icy Starfield Sparkle Overlay_152
+  - first:
+      213: -5975291891568376582
+    second: Icy Starfield Sparkle Overlay_153
+  - first:
+      213: -1611380876591908653
+    second: Icy Starfield Sparkle Overlay_154
+  - first:
+      213: -4848417502402735976
+    second: Icy Starfield Sparkle Overlay_155
+  - first:
+      213: -4016384683961433467
+    second: Icy Starfield Sparkle Overlay_156
+  - first:
+      213: -1252643919200216401
+    second: Icy Starfield Sparkle Overlay_157
+  - first:
+      213: 8196365230399825949
+    second: Icy Starfield Sparkle Overlay_158
+  - first:
+      213: 1042041325598945020
+    second: Icy Starfield Sparkle Overlay_159
+  - first:
+      213: 7430686043995901417
+    second: Icy Starfield Sparkle Overlay_160
+  - first:
+      213: -6794506936391896193
+    second: Icy Starfield Sparkle Overlay_161
+  - first:
+      213: -6344787012928726080
+    second: Icy Starfield Sparkle Overlay_162
+  - first:
+      213: 4927852482407555287
+    second: Icy Starfield Sparkle Overlay_163
+  - first:
+      213: 3405071400514705749
+    second: Icy Starfield Sparkle Overlay_164
+  - first:
+      213: 5221368596000769273
+    second: Icy Starfield Sparkle Overlay_165
+  - first:
+      213: 8286203488977870487
+    second: Icy Starfield Sparkle Overlay_166
+  - first:
+      213: -7674142974816375778
+    second: Icy Starfield Sparkle Overlay_167
+  - first:
+      213: 5264083850072920833
+    second: Icy Starfield Sparkle Overlay_168
+  - first:
+      213: -6315545804793455136
+    second: Icy Starfield Sparkle Overlay_169
+  - first:
+      213: -6947615461466044180
+    second: Icy Starfield Sparkle Overlay_170
+  - first:
+      213: 1250605723736634903
+    second: Icy Starfield Sparkle Overlay_171
+  - first:
+      213: 2690479068590278104
+    second: Icy Starfield Sparkle Overlay_172
+  - first:
+      213: -5217155341867668732
+    second: Icy Starfield Sparkle Overlay_173
+  - first:
+      213: 3954231693562843828
+    second: Icy Starfield Sparkle Overlay_174
+  - first:
+      213: -1382481262763355227
+    second: Icy Starfield Sparkle Overlay_175
+  - first:
+      213: -7019730457917174270
+    second: Icy Starfield Sparkle Overlay_176
+  - first:
+      213: 2927923900718487644
+    second: Icy Starfield Sparkle Overlay_177
+  - first:
+      213: 1805877522232732144
+    second: Icy Starfield Sparkle Overlay_178
+  - first:
+      213: -8114656469533349096
+    second: Icy Starfield Sparkle Overlay_179
+  - first:
+      213: -5372268038870621500
+    second: Icy Starfield Sparkle Overlay_180
+  - first:
+      213: 6839783127810978889
+    second: Icy Starfield Sparkle Overlay_181
+  - first:
+      213: -4572442698822481140
+    second: Icy Starfield Sparkle Overlay_182
+  - first:
+      213: 2996943265511806028
+    second: Icy Starfield Sparkle Overlay_183
+  - first:
+      213: 137783172713496287
+    second: Icy Starfield Sparkle Overlay_184
+  - first:
+      213: 7444209913931761896
+    second: Icy Starfield Sparkle Overlay_185
+  - first:
+      213: -1888615877007341808
+    second: Icy Starfield Sparkle Overlay_186
+  - first:
+      213: 3592931976686914096
+    second: Icy Starfield Sparkle Overlay_187
+  - first:
+      213: -7186405154041979424
+    second: Icy Starfield Sparkle Overlay_188
+  - first:
+      213: 3934874799932233398
+    second: Icy Starfield Sparkle Overlay_189
+  - first:
+      213: 2609493517597130411
+    second: Icy Starfield Sparkle Overlay_190
+  - first:
+      213: -5935894163572690855
+    second: Icy Starfield Sparkle Overlay_191
+  - first:
+      213: 2142947902720576933
+    second: Icy Starfield Sparkle Overlay_192
+  - first:
+      213: 6050494080284221772
+    second: Icy Starfield Sparkle Overlay_193
+  - first:
+      213: -2193527550521078456
+    second: Icy Starfield Sparkle Overlay_194
+  - first:
+      213: 3716446991851121053
+    second: Icy Starfield Sparkle Overlay_195
+  - first:
+      213: 5418266775623146900
+    second: Icy Starfield Sparkle Overlay_196
+  - first:
+      213: -7354991606031492906
+    second: Icy Starfield Sparkle Overlay_197
+  - first:
+      213: -4210986647707274737
+    second: Icy Starfield Sparkle Overlay_198
+  - first:
+      213: -6181196156878072463
+    second: Icy Starfield Sparkle Overlay_199
+  - first:
+      213: -913671796563539428
+    second: Icy Starfield Sparkle Overlay_200
+  - first:
+      213: -8799817542278824827
+    second: Icy Starfield Sparkle Overlay_201
+  - first:
+      213: 5780900826549091034
+    second: Icy Starfield Sparkle Overlay_202
+  - first:
+      213: 6154150726385040844
+    second: Icy Starfield Sparkle Overlay_203
+  - first:
+      213: 8575755032389557853
+    second: Icy Starfield Sparkle Overlay_204
+  - first:
+      213: 4268752730393683683
+    second: Icy Starfield Sparkle Overlay_205
+  - first:
+      213: 1249883481439360537
+    second: Icy Starfield Sparkle Overlay_206
+  - first:
+      213: -7837931022056574918
+    second: Icy Starfield Sparkle Overlay_207
+  - first:
+      213: -3280782763168119828
+    second: Icy Starfield Sparkle Overlay_208
+  - first:
+      213: -5847356315937535152
+    second: Icy Starfield Sparkle Overlay_209
+  - first:
+      213: -6535622229528479273
+    second: Icy Starfield Sparkle Overlay_210
+  - first:
+      213: 149293712631336241
+    second: Icy Starfield Sparkle Overlay_211
+  - first:
+      213: 6195638799451501574
+    second: Icy Starfield Sparkle Overlay_212
+  - first:
+      213: -7906449967699348169
+    second: Icy Starfield Sparkle Overlay_213
+  - first:
+      213: 4400083893340493102
+    second: Icy Starfield Sparkle Overlay_214
+  - first:
+      213: 6325736727305072734
+    second: Icy Starfield Sparkle Overlay_215
+  - first:
+      213: 1235207727181900969
+    second: Icy Starfield Sparkle Overlay_216
+  - first:
+      213: 1555363162364581096
+    second: Icy Starfield Sparkle Overlay_217
+  - first:
+      213: 8195667804019061465
+    second: Icy Starfield Sparkle Overlay_218
+  - first:
+      213: -5952453829921714038
+    second: Icy Starfield Sparkle Overlay_219
+  - first:
+      213: 1225937928327539581
+    second: Icy Starfield Sparkle Overlay_220
+  - first:
+      213: -8395102827607164776
+    second: Icy Starfield Sparkle Overlay_221
+  - first:
+      213: -608867450248417480
+    second: Icy Starfield Sparkle Overlay_222
+  - first:
+      213: -7368268477281326676
+    second: Icy Starfield Sparkle Overlay_223
+  - first:
+      213: 2760893737100782472
+    second: Icy Starfield Sparkle Overlay_224
+  - first:
+      213: -8598650001365390964
+    second: Icy Starfield Sparkle Overlay_225
+  - first:
+      213: 1162200271135121000
+    second: Icy Starfield Sparkle Overlay_226
+  - first:
+      213: -5479996278761429700
+    second: Icy Starfield Sparkle Overlay_227
+  - first:
+      213: 1650779827191729685
+    second: Icy Starfield Sparkle Overlay_228
+  - first:
+      213: -1041853406618388589
+    second: Icy Starfield Sparkle Overlay_229
+  - first:
+      213: -8549163812218085059
+    second: Icy Starfield Sparkle Overlay_230
+  - first:
+      213: 8766220557216796894
+    second: Icy Starfield Sparkle Overlay_231
+  - first:
+      213: 4283067571896663604
+    second: Icy Starfield Sparkle Overlay_232
+  - first:
+      213: -142091057946017253
+    second: Icy Starfield Sparkle Overlay_233
+  - first:
+      213: 1802743984087706531
+    second: Icy Starfield Sparkle Overlay_234
+  - first:
+      213: 3194488709755474734
+    second: Icy Starfield Sparkle Overlay_235
+  - first:
+      213: -2497362735665881591
+    second: Icy Starfield Sparkle Overlay_236
+  - first:
+      213: -8377641144127733418
+    second: Icy Starfield Sparkle Overlay_237
+  - first:
+      213: -6852267240445539069
+    second: Icy Starfield Sparkle Overlay_238
+  - first:
+      213: -4158783440117922281
+    second: Icy Starfield Sparkle Overlay_239
+  - first:
+      213: 8560267806857434593
+    second: Icy Starfield Sparkle Overlay_240
+  - first:
+      213: 7528165427827826997
+    second: Icy Starfield Sparkle Overlay_241
+  - first:
+      213: -5915148664901768342
+    second: Icy Starfield Sparkle Overlay_242
+  - first:
+      213: 5283357077650771601
+    second: Icy Starfield Sparkle Overlay_243
+  - first:
+      213: -8923969585238701912
+    second: Icy Starfield Sparkle Overlay_244
+  - first:
+      213: -1228980195254420735
+    second: Icy Starfield Sparkle Overlay_245
+  - first:
+      213: -936952755101303730
+    second: Icy Starfield Sparkle Overlay_246
+  - first:
+      213: -4171701933285751916
+    second: Icy Starfield Sparkle Overlay_247
+  - first:
+      213: -6577796752016371249
+    second: Icy Starfield Sparkle Overlay_248
+  - first:
+      213: 1292238683871836260
+    second: Icy Starfield Sparkle Overlay_249
+  - first:
+      213: 2439967483920711843
+    second: Icy Starfield Sparkle Overlay_250
+  - first:
+      213: -189883957516074800
+    second: Icy Starfield Sparkle Overlay_251
+  - first:
+      213: -9154743903381160715
+    second: Icy Starfield Sparkle Overlay_252
+  - first:
+      213: -6885715382503976201
+    second: Icy Starfield Sparkle Overlay_253
+  - first:
+      213: 386498775943670703
+    second: Icy Starfield Sparkle Overlay_254
+  - first:
+      213: 4446158042121781830
+    second: Icy Starfield Sparkle Overlay_255
+  - first:
+      213: 7545260036979578676
+    second: Icy Starfield Sparkle Overlay_256
+  - first:
+      213: -4378135867760033542
+    second: Icy Starfield Sparkle Overlay_257
+  - first:
+      213: 5616309907450292073
+    second: Icy Starfield Sparkle Overlay_258
+  - first:
+      213: -1498563395330738132
+    second: Icy Starfield Sparkle Overlay_259
+  - first:
+      213: -8100566766404502748
+    second: Icy Starfield Sparkle Overlay_260
+  - first:
+      213: 895721534011150135
+    second: Icy Starfield Sparkle Overlay_261
+  - first:
+      213: -8493472149175752088
+    second: Icy Starfield Sparkle Overlay_262
+  - first:
+      213: 4326753555271884447
+    second: Icy Starfield Sparkle Overlay_263
+  - first:
+      213: 3897511108138339115
+    second: Icy Starfield Sparkle Overlay_264
+  - first:
+      213: 1373639263942928417
+    second: Icy Starfield Sparkle Overlay_265
+  - first:
+      213: -2400940879067088254
+    second: Icy Starfield Sparkle Overlay_266
+  - first:
+      213: 8194393513925151415
+    second: Icy Starfield Sparkle Overlay_267
+  - first:
+      213: 914126825520464558
+    second: Icy Starfield Sparkle Overlay_268
+  - first:
+      213: -4953178412546939089
+    second: Icy Starfield Sparkle Overlay_269
+  - first:
+      213: -654764842308513461
+    second: Icy Starfield Sparkle Overlay_270
+  - first:
+      213: 8916231320486205637
+    second: Icy Starfield Sparkle Overlay_271
+  - first:
+      213: -4386500464923404169
+    second: Icy Starfield Sparkle Overlay_272
+  - first:
+      213: 4522307830897721920
+    second: Icy Starfield Sparkle Overlay_273
+  - first:
+      213: -3592589027955450369
+    second: Icy Starfield Sparkle Overlay_274
+  - first:
+      213: -3717334778880833996
+    second: Icy Starfield Sparkle Overlay_275
+  - first:
+      213: -4501503186632496762
+    second: Icy Starfield Sparkle Overlay_276
+  - first:
+      213: -8782603715800704974
+    second: Icy Starfield Sparkle Overlay_277
+  - first:
+      213: -1442811260491649158
+    second: Icy Starfield Sparkle Overlay_278
+  - first:
+      213: 6137030808314146583
+    second: Icy Starfield Sparkle Overlay_279
+  - first:
+      213: -432314098474895054
+    second: Icy Starfield Sparkle Overlay_280
+  - first:
+      213: 6528339488593702561
+    second: Icy Starfield Sparkle Overlay_281
+  - first:
+      213: 6998880404149193713
+    second: Icy Starfield Sparkle Overlay_282
+  - first:
+      213: 5539814437899266319
+    second: Icy Starfield Sparkle Overlay_283
+  - first:
+      213: -4240580444853342741
+    second: Icy Starfield Sparkle Overlay_284
+  - first:
+      213: -8133462454271328938
+    second: Icy Starfield Sparkle Overlay_285
+  - first:
+      213: -8227875155655423635
+    second: Icy Starfield Sparkle Overlay_286
+  - first:
+      213: 6720384373470504769
+    second: Icy Starfield Sparkle Overlay_287
+  - first:
+      213: 7352466470613740445
+    second: Icy Starfield Sparkle Overlay_288
+  - first:
+      213: -9143818298067333248
+    second: Icy Starfield Sparkle Overlay_289
+  - first:
+      213: 7524506318532717425
+    second: Icy Starfield Sparkle Overlay_290
+  - first:
+      213: 1178242834945390192
+    second: Icy Starfield Sparkle Overlay_291
+  - first:
+      213: 895423901566661115
+    second: Icy Starfield Sparkle Overlay_292
+  - first:
+      213: 4900435507812834926
+    second: Icy Starfield Sparkle Overlay_293
+  - first:
+      213: -8101441298447595707
+    second: Icy Starfield Sparkle Overlay_294
+  - first:
+      213: -9178548446621182093
+    second: Icy Starfield Sparkle Overlay_295
+  - first:
+      213: -7111291812711999544
+    second: Icy Starfield Sparkle Overlay_296
+  - first:
+      213: -7811019113719198835
+    second: Icy Starfield Sparkle Overlay_297
+  - first:
+      213: 1933131348283712739
+    second: Icy Starfield Sparkle Overlay_298
+  - first:
+      213: 5149567911467574397
+    second: Icy Starfield Sparkle Overlay_299
+  - first:
+      213: 7863198406274721998
+    second: Icy Starfield Sparkle Overlay_300
+  - first:
+      213: -6882486656325094494
+    second: Icy Starfield Sparkle Overlay_301
+  - first:
+      213: 4591609267691031599
+    second: Icy Starfield Sparkle Overlay_302
+  - first:
+      213: 217867776166545534
+    second: Icy Starfield Sparkle Overlay_303
+  - first:
+      213: -7718292719324664740
+    second: Icy Starfield Sparkle Overlay_304
+  - first:
+      213: -4447732164941450879
+    second: Icy Starfield Sparkle Overlay_305
+  - first:
+      213: -5492313991393658516
+    second: Icy Starfield Sparkle Overlay_306
+  - first:
+      213: 594491413818948064
+    second: Icy Starfield Sparkle Overlay_307
+  - first:
+      213: 3827705035351577602
+    second: Icy Starfield Sparkle Overlay_308
+  - first:
+      213: -4398734190285906473
+    second: Icy Starfield Sparkle Overlay_309
+  - first:
+      213: -983665526403914188
+    second: Icy Starfield Sparkle Overlay_310
+  - first:
+      213: -1091892543798060361
+    second: Icy Starfield Sparkle Overlay_311
+  - first:
+      213: -3470397699477075762
+    second: Icy Starfield Sparkle Overlay_312
+  - first:
+      213: 5477193545034957761
+    second: Icy Starfield Sparkle Overlay_313
+  - first:
+      213: 8448455947063133977
+    second: Icy Starfield Sparkle Overlay_314
+  - first:
+      213: 6663854254402744629
+    second: Icy Starfield Sparkle Overlay_315
+  - first:
+      213: -8095984105865925855
+    second: Icy Starfield Sparkle Overlay_316
+  - first:
+      213: 7554284038539145257
+    second: Icy Starfield Sparkle Overlay_317
+  - first:
+      213: 2398244183136116473
+    second: Icy Starfield Sparkle Overlay_318
+  - first:
+      213: -3835325579422449962
+    second: Icy Starfield Sparkle Overlay_319
+  - first:
+      213: 3203249832178635806
+    second: Icy Starfield Sparkle Overlay_320
+  - first:
+      213: 3922772284066196526
+    second: Icy Starfield Sparkle Overlay_321
+  - first:
+      213: 2911728439271035912
+    second: Icy Starfield Sparkle Overlay_322
+  - first:
+      213: 8700578340784149323
+    second: Icy Starfield Sparkle Overlay_323
+  - first:
+      213: 7918735372339299903
+    second: Icy Starfield Sparkle Overlay_324
+  - first:
+      213: -8003299208146051596
+    second: Icy Starfield Sparkle Overlay_325
+  - first:
+      213: -3189807120515190267
+    second: Icy Starfield Sparkle Overlay_326
+  - first:
+      213: -6208580903965341684
+    second: Icy Starfield Sparkle Overlay_327
+  - first:
+      213: 7624223313574150525
+    second: Icy Starfield Sparkle Overlay_328
+  - first:
+      213: 4226181633636108866
+    second: Icy Starfield Sparkle Overlay_329
+  - first:
+      213: -1317056983703812143
+    second: Icy Starfield Sparkle Overlay_330
+  - first:
+      213: -5879566228044063857
+    second: Icy Starfield Sparkle Overlay_331
+  - first:
+      213: 2834690626187949818
+    second: Icy Starfield Sparkle Overlay_332
+  - first:
+      213: -813633182077815014
+    second: Icy Starfield Sparkle Overlay_333
+  - first:
+      213: 7132432116347255528
+    second: Icy Starfield Sparkle Overlay_334
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icy Starfield Sparkle Overlay_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2119
+        height: 742
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511cfb89f8d47c170800000000000000
+      internalID: 8198606925789643029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 61391efaa9c789b4b9afdea955e1901c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":2119.0,"y":742.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Icy Starfield Sparkle Overlay_0: 8198606925789643029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="1" result="Failed(Child)" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-15 07:04:55Z" end-time="2026-11-15 07:04:55Z" duration="0.0367794">
+  <test-suite type="TestSuite" id="1009" name="CyberDive" fullname="CyberDive" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2026-11-15 07:04:55Z" end-time="2026-11-15 07:04:55Z" duration="0.036779" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="Assembly" id="1003" name="CyberDive.PlayTests.dll" fullname="C:/Users/kanka/Documents/06_code/vscode/Project_cyber/CyberDive/Library/ScriptAssemblies/CyberDive.PlayTests.dll" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2026-11-15 07:04:55Z" end-time="2026-11-15 07:04:55Z" duration="0.029151" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="18472" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="1004" name="CyberDive" fullname="CyberDive" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2026-11-15 07:04:55Z" end-time="2026-11-15 07:04:55Z" duration="0.028422" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestSuite" id="1005" name="Tests" fullname="CyberDive.Tests" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2026-11-15 07:04:55Z" end-time="2026-11-15 07:04:55Z" duration="0.028088" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-suite type="TestFixture" id="1001" name="CombatTests" fullname="CyberDive.Tests.CombatTests" classname="CyberDive.Tests.CombatTests" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2026-11-15 07:04:55Z" end-time="2026-11-15 07:04:55Z" duration="0.027079" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <failure>
+              <message><![CDATA[One or more child tests had errors]]></message>
+            </failure>
+            <test-case id="1002" name="CombatAdvancesAndRestartClearsRun" fullname="CyberDive.Tests.CombatTests.CombatAdvancesAndRestartClearsRun" methodname="CombatAdvancesAndRestartClearsRun" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1598641473" result="Failed" start-time="2026-11-15 07:04:55Z" end-time="2026-11-15 07:04:55Z" duration="0.016306" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <failure>
+                <message><![CDATA[  Playable game component must exist
+  Expected: not null
+  But was:  null
+]]></message>
+                <stack-trace><![CDATA[at CyberDive.Tests.CombatTests+<CombatAdvancesAndRestartClearsRun>d__1.MoveNext () [0x00031] in C:\Users\kanka\Documents\06_code\vscode\Project_cyber\CyberDive\Assets\CyberDive\Tests\PlayMode\CombatTests.cs:18
+at UnityEngine.TestTools.TestEnumerator+<Execute>d__7.MoveNext () [0x0003a] in .\Library\PackageCache\com.unity.test-framework@1405238725ab\UnityEngine.TestRunner\NUnitExtensions\Attributes\TestEnumerator.cs:44
+]]></stack-trace>
+              </failure>
+              <output><![CDATA[Saving results to: C:/Users/kanka/AppData/LocalLow/DefaultCompany/CyberDive\TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

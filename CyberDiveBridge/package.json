@@ -1,0 +1,1 @@
+{"name":"cyber-dive-bridge","private":true,"scripts":{"start":"node --env-file-if-exists=.env.local server.cjs","test":"node --test"},"dependencies":{"aedes":"1.2.0"}}

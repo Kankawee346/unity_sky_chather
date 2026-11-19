@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-15 07:18:58Z" end-time="2026-11-15 07:18:59Z" duration="0.8871572">
+  <test-suite type="TestSuite" id="1009" name="CYBER DIVE" fullname="CYBER DIVE" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-15 07:18:58Z" end-time="2026-11-15 07:18:59Z" duration="0.887157" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <test-suite type="Assembly" id="1003" name="CyberDive.PlayTests.dll" fullname="C:/Users/kanka/Documents/06_code/vscode/Project_cyber/CyberDive/Library/ScriptAssemblies/CyberDive.PlayTests.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-15 07:18:58Z" end-time="2026-11-15 07:18:59Z" duration="0.877166" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="21612" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <test-suite type="TestSuite" id="1004" name="CyberDive" fullname="CyberDive" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-15 07:18:58Z" end-time="2026-11-15 07:18:59Z" duration="0.875057" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1005" name="Tests" fullname="CyberDive.Tests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-15 07:18:58Z" end-time="2026-11-15 07:18:59Z" duration="0.870844" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1001" name="CombatTests" fullname="CyberDive.Tests.CombatTests" classname="CyberDive.Tests.CombatTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-15 07:18:58Z" end-time="2026-11-15 07:18:59Z" duration="0.866440" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1002" name="CombatAdvancesAndRestartClearsRun" fullname="CyberDive.Tests.CombatTests.CombatAdvancesAndRestartClearsRun" methodname="CombatAdvancesAndRestartClearsRun" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1944074947" result="Passed" start-time="2026-11-15 07:18:58Z" end-time="2026-11-15 07:18:59Z" duration="0.854036" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: C:/Users/kanka/AppData/LocalLow/CyberDive/CYBER DIVE\TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

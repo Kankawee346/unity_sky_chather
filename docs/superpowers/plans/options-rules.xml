@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="9" result="Passed" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.0560507">
+  <test-suite type="TestSuite" id="1000" name="CYBER DIVE" fullname="CYBER DIVE" runstate="Runnable" testcasecount="9" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.056051" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="1012" name="CyberDive.Tests.dll" fullname="C:/Users/kanka/Documents/06_code/vscode/Project_cyber/CyberDive/Library/ScriptAssemblies/CyberDive.Tests.dll" runstate="Runnable" testcasecount="9" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.040337" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="21612" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestSuite" id="1013" name="CyberDive" fullname="CyberDive" runstate="Runnable" testcasecount="9" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.039378" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1014" name="Tests" fullname="CyberDive.Tests" runstate="Runnable" testcasecount="9" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.038709" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1002" name="RulesTests" fullname="CyberDive.Tests.RulesTests" classname="CyberDive.Tests.RulesTests" runstate="Runnable" testcasecount="9" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.037403" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1007" name="DamageInvulnerabilityAndTerminalState" fullname="CyberDive.Tests.RulesTests.DamageInvulnerabilityAndTerminalState" methodname="DamageInvulnerabilityAndTerminalState" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="789825089" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.017740" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1003" name="DifficultyScalesEnemySpeedAndAttackFrequency" fullname="CyberDive.Tests.RulesTests.DifficultyScalesEnemySpeedAndAttackFrequency" methodname="DifficultyScalesEnemySpeedAndAttackFrequency" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="1059358576" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.001440" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1011" name="LostTrackingAndPauseRequireNewNeutral" fullname="CyberDive.Tests.RulesTests.LostTrackingAndPauseRequireNewNeutral" methodname="LostTrackingAndPauseRequireNewNeutral" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="1676808174" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.000291" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1004" name="MissionMovesFromApproachToFirewallToBossAndExpires" fullname="CyberDive.Tests.RulesTests.MissionMovesFromApproachToFirewallToBossAndExpires" methodname="MissionMovesFromApproachToFirewallToBossAndExpires" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="1287562251" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.000446" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1006" name="ParryHasWindowAndCooldown" fullname="CyberDive.Tests.RulesTests.ParryHasWindowAndCooldown" methodname="ParryHasWindowAndCooldown" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="1213676595" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.000188" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1008" name="PauseFreezesCooldownAndRejectsCombat" fullname="CyberDive.Tests.RulesTests.PauseFreezesCooldownAndRejectsCombat" methodname="PauseFreezesCooldownAndRejectsCombat" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="2064856279" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.000239" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1010" name="PoseRequiresNeutralAndNeverRepeatsHeldGesture" fullname="CyberDive.Tests.RulesTests.PoseRequiresNeutralAndNeverRepeatsHeldGesture" methodname="PoseRequiresNeutralAndNeverRepeatsHeldGesture" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="1736762788" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.000205" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1009" name="ReflectionScoresAndMultiplierCaps" fullname="CyberDive.Tests.RulesTests.ReflectionScoresAndMultiplierCaps" methodname="ReflectionScoresAndMultiplierCaps" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="1968213928" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.000354" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1005" name="TransitDelayAndSnapshotAgeBothCountTowardExpiry" fullname="CyberDive.Tests.RulesTests.TransitDelayAndSnapshotAgeBothCountTowardExpiry" methodname="TransitDelayAndSnapshotAgeBothCountTowardExpiry" classname="CyberDive.Tests.RulesTests" runstate="Runnable" seed="1141633763" result="Passed" start-time="2026-11-15 09:23:38Z" end-time="2026-11-15 09:23:38Z" duration="0.000208" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: C:/Users/kanka/AppData/LocalLow/CyberDive/CYBER DIVE\TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

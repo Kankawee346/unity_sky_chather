@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="9" result="Passed" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-15 09:24:02Z" end-time="2026-11-15 09:24:03Z" duration="1.6167703">
+  <test-suite type="TestSuite" id="1017" name="CYBER DIVE" fullname="CYBER DIVE" runstate="Runnable" testcasecount="9" result="Passed" start-time="2026-11-15 09:24:02Z" end-time="2026-11-15 09:24:03Z" duration="1.616770" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <test-suite type="Assembly" id="1011" name="CyberDive.PlayTests.dll" fullname="C:/Users/kanka/Documents/06_code/vscode/Project_cyber/CyberDive/Library/ScriptAssemblies/CyberDive.PlayTests.dll" runstate="Runnable" testcasecount="9" result="Passed" start-time="2026-11-15 09:24:02Z" end-time="2026-11-15 09:24:03Z" duration="1.596357" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="21612" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <test-suite type="TestSuite" id="1012" name="CyberDive" fullname="CyberDive" runstate="Runnable" testcasecount="9" result="Passed" start-time="2026-11-15 09:24:02Z" end-time="2026-11-15 09:24:03Z" duration="1.592709" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1013" name="Tests" fullname="CyberDive.Tests" runstate="Runnable" testcasecount="9" result="Passed" start-time="2026-11-15 09:24:02Z" end-time="2026-11-15 09:24:03Z" duration="1.573460" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1001" name="CombatTests" fullname="CyberDive.Tests.CombatTests" classname="CyberDive.Tests.CombatTests" runstate="Runnable" testcasecount="9" result="Passed" start-time="2026-11-15 09:24:02Z" end-time="2026-11-15 09:24:03Z" duration="1.556940" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1010" name="CombatAdvancesAndRestartClearsRun" fullname="CyberDive.Tests.CombatTests.CombatAdvancesAndRestartClearsRun" methodname="CombatAdvancesAndRestartClearsRun" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1445333011" result="Passed" start-time="2026-11-15 09:24:02Z" end-time="2026-11-15 09:24:03Z" duration="0.997335" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1006" name="DeadlineTakesPriorityOverLethalShot" fullname="CyberDive.Tests.CombatTests.DeadlineTakesPriorityOverLethalShot" methodname="DeadlineTakesPriorityOverLethalShot" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="271245852" result="Passed" start-time="2026-11-15 09:24:03Z" end-time="2026-11-15 09:24:03Z" duration="0.069068" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1003" name="DifficultyLocksDuringRunAndOptionsSurviveReload" fullname="CyberDive.Tests.CombatTests.DifficultyLocksDuringRunAndOptionsSurviveReload" methodname="DifficultyLocksDuringRunAndOptionsSurviveReload" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="8423932" result="Passed" start-time="2026-11-15 09:24:03Z" end-time="2026-11-15 09:24:03Z" duration="0.085396" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1002" name="EnterDoesNotResubmitSelectedAudioOption" fullname="CyberDive.Tests.CombatTests.EnterDoesNotResubmitSelectedAudioOption" methodname="EnterDoesNotResubmitSelectedAudioOption" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1817422366" result="Passed" start-time="2026-11-15 09:24:03Z" end-time="2026-11-15 09:24:03Z" duration="0.087626" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1009" name="ExpiredPendingPoseCannotFireBeforeReceiverUpdate" fullname="CyberDive.Tests.CombatTests.ExpiredPendingPoseCannotFireBeforeReceiverUpdate" methodname="ExpiredPendingPoseCannotFireBeforeReceiverUpdate" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="730055404" result="Passed" start-time="2026-11-15 09:24:03Z" end-time="2026-11-15 09:24:03Z" duration="0.041456" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1004" name="FeedbackIsBoundedExpiresAndClearsWithoutChangingRun" fullname="CyberDive.Tests.CombatTests.FeedbackIsBoundedExpiresAndClearsWithoutChangingRun" methodname="FeedbackIsBoundedExpiresAndClearsWithoutChangingRun" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="878715853" result="Passed" start-time="2026-11-15 09:24:03Z" end-time="2026-11-15 09:24:03Z" duration="0.053913" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1005" name="ImmediateRestartPreservesFinishedBestScore" fullname="CyberDive.Tests.CombatTests.ImmediateRestartPreservesFinishedBestScore" methodname="ImmediateRestartPreservesFinishedBestScore" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="89340432" result="Passed" start-time="2026-11-15 09:24:03Z" end-time="2026-11-15 09:24:03Z" duration="0.057833" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1007" name="KeyboardOnlyIgnoresExternalSamplesAndDisableClearsThem" fullname="CyberDive.Tests.CombatTests.KeyboardOnlyIgnoresExternalSamplesAndDisableClearsThem" methodname="KeyboardOnlyIgnoresExternalSamplesAndDisableClearsThem" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1687830680" result="Passed" start-time="2026-11-15 09:24:03Z" end-time="2026-11-15 09:24:03Z" duration="0.049677" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1008" name="ShieldReflectsMarkedBulletsButNotObstacles" fullname="CyberDive.Tests.CombatTests.ShieldReflectsMarkedBulletsButNotObstacles" methodname="ShieldReflectsMarkedBulletsButNotObstacles" classname="CyberDive.Tests.CombatTests" runstate="Runnable" seed="1879711032" result="Passed" start-time="2026-11-15 09:24:03Z" end-time="2026-11-15 09:24:03Z" duration="0.089150" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: C:/Users/kanka/AppData/LocalLow/CyberDive/CYBER DIVE\TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

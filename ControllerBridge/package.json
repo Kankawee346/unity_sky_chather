@@ -1,0 +1,16 @@
+{
+  "name": "catchlab-controller-bridge",
+  "private": true,
+  "scripts": {
+    "start": "node --env-file-if-exists=.env.local bridge.cjs",
+    "keyboard": "node --env-file-if-exists=.env.local bridge.cjs --keyboard-only",
+    "friend": "node --env-file-if-exists=.env.local bridge.cjs --friend-ui",
+    "friend-keyboard": "node --env-file-if-exists=.env.local bridge.cjs --friend-ui --keyboard-only",
+    "sheets-sync": "node --env-file-if-exists=.env.local sync-sheets.cjs"
+  },
+  "dependencies": {
+    "aedes": "0.51.3",
+    "firebase-admin": "14.3.0",
+    "google-auth-library": "10.9.1"
+  }
+}

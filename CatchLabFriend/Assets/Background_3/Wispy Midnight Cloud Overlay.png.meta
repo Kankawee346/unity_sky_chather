@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: de431a9c3529f7f44a023447f92e4ec6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7010935930390777045
+    second: Wispy Midnight Cloud Overlay_0
+  - first:
+      213: -1578656292546323748
+    second: Wispy Midnight Cloud Overlay_1
+  - first:
+      213: -5888601192051951397
+    second: Wispy Midnight Cloud Overlay_2
+  - first:
+      213: 468907567381671174
+    second: Wispy Midnight Cloud Overlay_3
+  - first:
+      213: -5358446337712664075
+    second: Wispy Midnight Cloud Overlay_4
+  - first:
+      213: -2625708805915890967
+    second: Wispy Midnight Cloud Overlay_5
+  - first:
+      213: -3832141027657934140
+    second: Wispy Midnight Cloud Overlay_6
+  - first:
+      213: 9051693343244989554
+    second: Wispy Midnight Cloud Overlay_7
+  - first:
+      213: 8065328977539925002
+    second: Wispy Midnight Cloud Overlay_8
+  - first:
+      213: 8445993783572643690
+    second: Wispy Midnight Cloud Overlay_9
+  - first:
+      213: -8386391251313516743
+    second: Wispy Midnight Cloud Overlay_10
+  - first:
+      213: -8467403802327154040
+    second: Wispy Midnight Cloud Overlay_11
+  - first:
+      213: 2585741777202633367
+    second: Wispy Midnight Cloud Overlay_12
+  - first:
+      213: 2950265060348444419
+    second: Wispy Midnight Cloud Overlay_13
+  - first:
+      213: -7867841739293581480
+    second: Wispy Midnight Cloud Overlay_14
+  - first:
+      213: 6259178294681531956
+    second: Wispy Midnight Cloud Overlay_15
+  - first:
+      213: -9124087600645068350
+    second: Wispy Midnight Cloud Overlay_16
+  - first:
+      213: -2024399846605306582
+    second: Wispy Midnight Cloud Overlay_17
+  - first:
+      213: 6997348072536725574
+    second: Wispy Midnight Cloud Overlay_18
+  - first:
+      213: 2091076521993178009
+    second: Wispy Midnight Cloud Overlay_19
+  - first:
+      213: -1541743084919657153
+    second: Wispy Midnight Cloud Overlay_20
+  - first:
+      213: -5174169571656114428
+    second: Wispy Midnight Cloud Overlay_21
+  - first:
+      213: 6420531713716331034
+    second: Wispy Midnight Cloud Overlay_22
+  - first:
+      213: -8175610622497650703
+    second: Wispy Midnight Cloud Overlay_23
+  - first:
+      213: 821460500411102477
+    second: Wispy Midnight Cloud Overlay_24
+  - first:
+      213: 3959695275553217894
+    second: Wispy Midnight Cloud Overlay_25
+  - first:
+      213: -4485074134314780019
+    second: Wispy Midnight Cloud Overlay_26
+  - first:
+      213: 6264804809378658877
+    second: Wispy Midnight Cloud Overlay_27
+  - first:
+      213: 639926671606314821
+    second: Wispy Midnight Cloud Overlay_28
+  - first:
+      213: -7405095637889985081
+    second: Wispy Midnight Cloud Overlay_29
+  - first:
+      213: -5363939146199439840
+    second: Wispy Midnight Cloud Overlay_30
+  - first:
+      213: -8781599398919661046
+    second: Wispy Midnight Cloud Overlay_31
+  - first:
+      213: -4839791930807338931
+    second: Wispy Midnight Cloud Overlay_32
+  - first:
+      213: 2391596079311553263
+    second: Wispy Midnight Cloud Overlay_33
+  - first:
+      213: 4944935447878614875
+    second: Wispy Midnight Cloud Overlay_34
+  - first:
+      213: 8654429306828106259
+    second: Wispy Midnight Cloud Overlay_35
+  - first:
+      213: 4449702279040389785
+    second: Wispy Midnight Cloud Overlay_36
+  - first:
+      213: -5629616894573346762
+    second: Wispy Midnight Cloud Overlay_37
+  - first:
+      213: 1643811050435854899
+    second: Wispy Midnight Cloud Overlay_38
+  - first:
+      213: 6397672376581774885
+    second: Wispy Midnight Cloud Overlay_39
+  - first:
+      213: 3112371531463616852
+    second: Wispy Midnight Cloud Overlay_40
+  - first:
+      213: -8067144684270337234
+    second: Wispy Midnight Cloud Overlay_41
+  - first:
+      213: -8773665058237580960
+    second: Wispy Midnight Cloud Overlay_42
+  - first:
+      213: 2830823412143002780
+    second: Wispy Midnight Cloud Overlay_43
+  - first:
+      213: -2287119692107023570
+    second: Wispy Midnight Cloud Overlay_44
+  - first:
+      213: 4775050560496845160
+    second: Wispy Midnight Cloud Overlay_45
+  - first:
+      213: 1002094856457680558
+    second: Wispy Midnight Cloud Overlay_46
+  - first:
+      213: -7569359083598527134
+    second: Wispy Midnight Cloud Overlay_47
+  - first:
+      213: -960775772177031195
+    second: Wispy Midnight Cloud Overlay_48
+  - first:
+      213: -2667029314451319788
+    second: Wispy Midnight Cloud Overlay_49
+  - first:
+      213: 2399995890446615442
+    second: Wispy Midnight Cloud Overlay_50
+  - first:
+      213: 7532231163872042527
+    second: Wispy Midnight Cloud Overlay_51
+  - first:
+      213: -1008319578869574729
+    second: Wispy Midnight Cloud Overlay_52
+  - first:
+      213: -3158489157406575331
+    second: Wispy Midnight Cloud Overlay_53
+  - first:
+      213: -6723537984707103441
+    second: Wispy Midnight Cloud Overlay_54
+  - first:
+      213: -6146670512821620052
+    second: Wispy Midnight Cloud Overlay_55
+  - first:
+      213: 8489960275819592914
+    second: Wispy Midnight Cloud Overlay_56
+  - first:
+      213: -2874803101242626441
+    second: Wispy Midnight Cloud Overlay_57
+  - first:
+      213: -8893690757255689726
+    second: Wispy Midnight Cloud Overlay_58
+  - first:
+      213: 9219067421402810776
+    second: Wispy Midnight Cloud Overlay_59
+  - first:
+      213: -103300300733511005
+    second: Wispy Midnight Cloud Overlay_60
+  - first:
+      213: -5758219984641441965
+    second: Wispy Midnight Cloud Overlay_61
+  - first:
+      213: 6744295915469879943
+    second: Wispy Midnight Cloud Overlay_62
+  - first:
+      213: 2930695297114922138
+    second: Wispy Midnight Cloud Overlay_63
+  - first:
+      213: -444847331946446628
+    second: Wispy Midnight Cloud Overlay_64
+  - first:
+      213: 3738512151534487038
+    second: Wispy Midnight Cloud Overlay_65
+  - first:
+      213: 3650734690449339036
+    second: Wispy Midnight Cloud Overlay_66
+  - first:
+      213: -7934176104276023091
+    second: Wispy Midnight Cloud Overlay_67
+  - first:
+      213: -2095667378621271719
+    second: Wispy Midnight Cloud Overlay_68
+  - first:
+      213: 3453154951690306491
+    second: Wispy Midnight Cloud Overlay_69
+  - first:
+      213: -3110295574636153184
+    second: Wispy Midnight Cloud Overlay_70
+  - first:
+      213: 7280209449778498007
+    second: Wispy Midnight Cloud Overlay_71
+  - first:
+      213: -2879259528304094254
+    second: Wispy Midnight Cloud Overlay_72
+  - first:
+      213: -1705143295232320566
+    second: Wispy Midnight Cloud Overlay_73
+  - first:
+      213: -3108829525312421967
+    second: Wispy Midnight Cloud Overlay_74
+  - first:
+      213: 6461984950622969724
+    second: Wispy Midnight Cloud Overlay_75
+  - first:
+      213: 4734298972657307574
+    second: Wispy Midnight Cloud Overlay_76
+  - first:
+      213: 768714163990870805
+    second: Wispy Midnight Cloud Overlay_77
+  - first:
+      213: 2082222131062822961
+    second: Wispy Midnight Cloud Overlay_78
+  - first:
+      213: -4589391895712806528
+    second: Wispy Midnight Cloud Overlay_79
+  - first:
+      213: -2231608798647887245
+    second: Wispy Midnight Cloud Overlay_80
+  - first:
+      213: -4594877877323278502
+    second: Wispy Midnight Cloud Overlay_81
+  - first:
+      213: 668030326416310831
+    second: Wispy Midnight Cloud Overlay_82
+  - first:
+      213: -2310466022330709112
+    second: Wispy Midnight Cloud Overlay_83
+  - first:
+      213: -3883997283942417925
+    second: Wispy Midnight Cloud Overlay_84
+  - first:
+      213: 237915114731192382
+    second: Wispy Midnight Cloud Overlay_85
+  - first:
+      213: 5666266659145418057
+    second: Wispy Midnight Cloud Overlay_86
+  - first:
+      213: 8635916883518506053
+    second: Wispy Midnight Cloud Overlay_87
+  - first:
+      213: 5909694619699988363
+    second: Wispy Midnight Cloud Overlay_88
+  - first:
+      213: -4823332824859467777
+    second: Wispy Midnight Cloud Overlay_89
+  - first:
+      213: -31519517092876371
+    second: Wispy Midnight Cloud Overlay_90
+  - first:
+      213: -5575791650525019839
+    second: Wispy Midnight Cloud Overlay_91
+  - first:
+      213: 2527170502450533017
+    second: Wispy Midnight Cloud Overlay_92
+  - first:
+      213: -5010193210009078180
+    second: Wispy Midnight Cloud Overlay_93
+  - first:
+      213: 7591363464929855997
+    second: Wispy Midnight Cloud Overlay_94
+  - first:
+      213: -6895089972187570966
+    second: Wispy Midnight Cloud Overlay_95
+  - first:
+      213: -1001963508423409388
+    second: Wispy Midnight Cloud Overlay_96
+  - first:
+      213: -8972337728211242126
+    second: Wispy Midnight Cloud Overlay_97
+  - first:
+      213: -7873084831944406711
+    second: Wispy Midnight Cloud Overlay_98
+  - first:
+      213: 1530537084034579980
+    second: Wispy Midnight Cloud Overlay_99
+  - first:
+      213: -8694055440397754465
+    second: Wispy Midnight Cloud Overlay_100
+  - first:
+      213: 4686625643209563732
+    second: Wispy Midnight Cloud Overlay_101
+  - first:
+      213: -647480807858178479
+    second: Wispy Midnight Cloud Overlay_102
+  - first:
+      213: -231980308023273069
+    second: Wispy Midnight Cloud Overlay_103
+  - first:
+      213: -2304011530933081556
+    second: Wispy Midnight Cloud Overlay_104
+  - first:
+      213: 8751355670334830472
+    second: Wispy Midnight Cloud Overlay_105
+  - first:
+      213: 2696393787454449353
+    second: Wispy Midnight Cloud Overlay_106
+  - first:
+      213: 5913199509759179836
+    second: Wispy Midnight Cloud Overlay_107
+  - first:
+      213: -113868355144572920
+    second: Wispy Midnight Cloud Overlay_108
+  - first:
+      213: 8927637663071774225
+    second: Wispy Midnight Cloud Overlay_109
+  - first:
+      213: 5498140909352625838
+    second: Wispy Midnight Cloud Overlay_110
+  - first:
+      213: 5817404758019682311
+    second: Wispy Midnight Cloud Overlay_111
+  - first:
+      213: -2360913717839823667
+    second: Wispy Midnight Cloud Overlay_112
+  - first:
+      213: -5028524417620528507
+    second: Wispy Midnight Cloud Overlay_113
+  - first:
+      213: 5766484966567132016
+    second: Wispy Midnight Cloud Overlay_114
+  - first:
+      213: -5868005091234583382
+    second: Wispy Midnight Cloud Overlay_115
+  - first:
+      213: -7171165917578165050
+    second: Wispy Midnight Cloud Overlay_116
+  - first:
+      213: -7625767965689359545
+    second: Wispy Midnight Cloud Overlay_117
+  - first:
+      213: 1455992317801330344
+    second: Wispy Midnight Cloud Overlay_118
+  - first:
+      213: -2957211455542052428
+    second: Wispy Midnight Cloud Overlay_119
+  - first:
+      213: 7545588506960413475
+    second: Wispy Midnight Cloud Overlay_120
+  - first:
+      213: 6495595832282231693
+    second: Wispy Midnight Cloud Overlay_121
+  - first:
+      213: 4476587628005586199
+    second: Wispy Midnight Cloud Overlay_122
+  - first:
+      213: 9001616195112048499
+    second: Wispy Midnight Cloud Overlay_123
+  - first:
+      213: -374044146069788678
+    second: Wispy Midnight Cloud Overlay_124
+  - first:
+      213: 657540072338861908
+    second: Wispy Midnight Cloud Overlay_125
+  - first:
+      213: 9041790604319985481
+    second: Wispy Midnight Cloud Overlay_126
+  - first:
+      213: 2701714516344050547
+    second: Wispy Midnight Cloud Overlay_127
+  - first:
+      213: -180909852257253389
+    second: Wispy Midnight Cloud Overlay_128
+  - first:
+      213: -9076998051043213558
+    second: Wispy Midnight Cloud Overlay_129
+  - first:
+      213: 3241141325282054712
+    second: Wispy Midnight Cloud Overlay_130
+  - first:
+      213: -1771319724912491796
+    second: Wispy Midnight Cloud Overlay_131
+  - first:
+      213: 5517756966211787608
+    second: Wispy Midnight Cloud Overlay_132
+  - first:
+      213: -7236838710978916311
+    second: Wispy Midnight Cloud Overlay_133
+  - first:
+      213: -7572118587173523640
+    second: Wispy Midnight Cloud Overlay_134
+  - first:
+      213: -6191891403696779342
+    second: Wispy Midnight Cloud Overlay_135
+  - first:
+      213: 6151049095441168208
+    second: Wispy Midnight Cloud Overlay_136
+  - first:
+      213: -7740939297735592570
+    second: Wispy Midnight Cloud Overlay_137
+  - first:
+      213: -2167446810625305693
+    second: Wispy Midnight Cloud Overlay_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wispy Midnight Cloud Overlay_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1205
+        height: 1306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc07f94519db4160800000000000000
+      internalID: 7010935930390777045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5aa65350e5fde2e48910c525d83eb5bf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1205.0,"y":1306.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Wispy Midnight Cloud Overlay_0: 7010935930390777045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

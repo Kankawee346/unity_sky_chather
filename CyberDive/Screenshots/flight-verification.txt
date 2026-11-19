@@ -1,0 +1,7 @@
+Phase=Won
+Elapsed=93.61066
+Hull=3
+Score=21600
+Parries=27
+Samples=81636
+MedianEditorFrameMs=16.6506
